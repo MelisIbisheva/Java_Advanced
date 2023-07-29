@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="DefiningClasses_lab">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/softuni-java-advanced/DefiningClasses_lab/BankAccount.zip!/" />
+      <root url="jar://$PROJECT_DIR$/softuni-java-advanced/DefiningClasses_lab/CarInfo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/softuni-java-advanced/DefiningClasses_lab/CarConstructors.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
